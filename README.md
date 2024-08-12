@@ -1,7 +1,6 @@
 ## Hello there 👋
 
 
-  ![image title](https://rushter.com/counter.svg)
   
   ## About Me 👩‍💼
 
@@ -31,3 +30,5 @@ AI is being implemented everywhere because it optimizes human work. The developm
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
+  ![image title](https://rushter.com/counter.svg)
