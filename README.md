@@ -6,7 +6,6 @@
 
 
   
-
 ## Research info
 Research interests: AI/ML methods for everything, numerical modeling of physical processes.
 
