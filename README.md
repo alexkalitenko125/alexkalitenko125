@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 
-  
+  ![image title](https://rushter.com/counter.svg)
   
   ## About Me 👩‍💼
 
