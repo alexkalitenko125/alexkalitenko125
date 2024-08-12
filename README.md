@@ -13,7 +13,7 @@ Research interests: AI/ML methods for everything, numerical modeling of physical
 
 AI is being implemented everywhere because it optimizes human work. The development of AI in physics can be divided into three main categories:
 1. Direct application of AI to solve practical problems (not only in physics). 
-2. Physics-inspired AI, which introduces the physical laws into neural networks (physics-informed neural networks, Brain-inspired NN, and Lagrangian neural networks).
+2. Physics-inspired AI, which introduces the physical laws into neural networks (physics-informed neural networks, Brain-Inspired Modular Training, and Lagrangian neural networks).
 3.  AI for physics - the search for new knowledge, formulas (AI Feynman and AI Poincaré).
 
 
