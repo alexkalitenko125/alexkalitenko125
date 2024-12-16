@@ -15,7 +15,7 @@ AI is being implemented everywhere because it optimizes human work. The developm
 3.  AI for physics - the search for new knowledge, formulas (AI Feynman and AI Poincaré).
 
 ## I am currently 
-engaged in the development of physics-based neural networks (Pins) and the application of reinforcement learning.
+engaged in the development of physics-based neural networks (PINNs) and the application of reinforcement learning (RL).
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
