@@ -14,7 +14,8 @@ AI is being implemented everywhere because it optimizes human work. The developm
 2. Physics-inspired AI, which introduces the physical laws into neural networks (physics-informed neural networks, Brain-Inspired Modular Training, and Lagrangian neural networks).
 3.  AI for physics - the search for new knowledge, formulas (AI Feynman and AI Poincaré).
 
-## I am currently engaged in the development of physics-based neural networks (Pins) and the application of reinforcement learning.
+## I am currently 
+engaged in the development of physics-based neural networks (Pins) and the application of reinforcement learning.
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
