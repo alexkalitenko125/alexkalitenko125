@@ -3,7 +3,7 @@
 
   
   ## About Me 👩‍💼
-   I’m currently working on the development of physics-based neural networks (PINNs) and the application of reinforcement learning (RL). I am also exploring the prospects of integration of Brain-inspired Modular Training. 
+   I’m currently working on the development of physics-based neural networks (PINNs) and the application of reinforcement learning (RL) in quantum mechanics.
 
 
   
