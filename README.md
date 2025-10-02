@@ -3,8 +3,7 @@
 
   
   ## About Me 👩‍💼
-   I am currently working on new computational methods in quantum physics and aplication of PINNs (Physics-Informed Neural Networks) and NNQS (Neural Network Quantum States) for physics.  
-
+   I am currently working on developing new computational methods for quantum physics, including the application of PINNs (physics-informed neural networks) and NNQs (neural network quantum states).
 
   
 ## Research info
@@ -15,15 +14,12 @@ AI is being implemented everywhere because it optimizes human work. The developm
 2. Physics-inspired AI, which introduces the physical laws into neural networks (physics-informed neural networks, Brain-Inspired Modular Training, and Lagrangian neural networks).
 3.  AI for physics - the search for new knowledge, formulas (AI Feynman and AI Poincaré).
 
-I am working on the following projects: 
+I am working on several projects:
 
-* Application of machine learning for theoretical research in physics (MLP, MTL, RL, NNQS, PINNs, autograd and etc.).
-
-* Development of teaching methods for physics, mathematics and machine learning to a wide age range (12-24 years) of students. 
-
-* Teaching students at higher education institutions, including international students (China, Vietnam, UAE, Saudi Arabia, etc.).
-
-*I spend the rest of my time adapting machine learning for financial analytics.
+* Application of machine learning techniques for theoretical research in physics, including MLP, MTL, RL, PINNS, NNQS and etc.
+* Development of methods for teaching physics, mathematics, and machine learning at different levels, from middle school to university.
+* Teaching physics to university students, including international students from China, Vietnam, the UAE, Saudi Arabia and so on.
+* Adapting machine learning algorithms for financial analytics in my free time.
 
 
 
