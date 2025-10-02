@@ -3,7 +3,7 @@
 
   
   ## About Me 👩‍💼
-   I am currently working on developing new computational methods for quantum physics, including the application of PINNs (physics-informed neural networks) and NNQs (neural network quantum states).
+   I am currently working on developing new computational methods for quantum physics, including the application of PINNs (physics-informed neural networks) and NNQS (neural network quantum states).
 
   
 ## Research info
