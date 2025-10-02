@@ -14,7 +14,8 @@ AI is being implemented everywhere because it optimizes human work. The developm
 2. Physics-inspired AI, which introduces the physical laws into neural networks (physics-informed neural networks, Brain-Inspired Modular Training, and Lagrangian neural networks).
 3.  AI for physics - the search for new knowledge, formulas (AI Feynman and AI Poincaré).
 
-I am working on several projects:
+
+## Projects
 
 * Application of machine learning techniques for theoretical research in physics, including MLP, MTL, RL, PINNS, NNQS and etc.
 * Development of methods for teaching physics, mathematics, and machine learning at different levels, from middle school to university.
