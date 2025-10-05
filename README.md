@@ -17,7 +17,7 @@ AI is being implemented everywhere because it optimizes human work. The developm
 
 ## Projects
 
-* Application of machine learning techniques for theoretical research in physics, including MLP, Multi-Dimensional Regression, RL, PINNS, NNQS and etc.
+* Application of machine learning techniques for theoretical research in physics, including MLP, Multi-Dimensional Regression, RL, PINNs, NNQS and etc.
 * Development of methods for teaching physics, mathematics, and machine learning at different levels, from middle school to university.
 * Teaching physics to university students, including international students from China, Vietnam, the UAE, Saudi Arabia and so on.
 * Adapting machine learning algorithms for financial analytics in my free time.
