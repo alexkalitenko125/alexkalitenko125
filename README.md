@@ -9,10 +9,10 @@
 ## Research info
 Research interests: AI/ML methods for everything, numerical modeling of physical processes and teaching.
 
-AI is being implemented everywhere because it optimizes human work. The development of AI in physics can be divided into three main categories:
-1. Direct application of AI to solve practical problems (not only in physics). 
-2. Physics-inspired AI, which introduces the physical laws into neural networks (physics-informed neural networks, Brain-Inspired Modular Training, and Lagrangian neural networks).
-3.  AI for physics - the search for new knowledge, formulas (AI Feynman and AI Poincaré).
+In a cycle, a new philosophy of understanding nature can be formulated:
+1. **Development of algorithms for AI** - The human brain has limitations in understanding the Universe that have been developed by evolutionary mechanisms. Therefore, humans must transfer the function of understanding to a machine by developing algorithms. 
+2. **AI for physics** - The search for new knowledge, formulas and laws.
+3.  **New knowledge from AI leads to new understanding** - The acquired knowledge leads to the development of new algorithms from the first point. And we get a cycle that can end with absolute knowledge.
 
 
 ## Projects
