@@ -11,7 +11,7 @@ Research interests: AI/ML methods for everything, numerical modeling of physical
 
 In a cycle, a new philosophy of understanding nature can be formulated:
 1. **Development of algorithms for AI** - The human brain has limitations in understanding the Universe that have been developed by evolutionary mechanisms. Therefore, humans must transfer the function of understanding to a machine by developing algorithms. 
-2. **AI for physics** - The search for new knowledge, formulas and laws.
+2. **AI for physics** - The search for new knowledge, formulas and laws. AI methods as a research tool.
 3.  **New knowledge from AI leads to new understanding** - The acquired knowledge leads to the development of new algorithms from the first point. And we get a cycle that can end with absolute knowledge.
 
 
